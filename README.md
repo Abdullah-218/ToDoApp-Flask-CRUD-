@@ -14,3 +14,4 @@ git clone https://github.com/Abdullah-218/ToDoApp-Flask_CRUD
 cd flask-todo-app
 pip install -r requirements.txt
 python app.py
+
